@@ -14,7 +14,7 @@ export default async function handler(
       {
         headers: {
           "x-rapidapi-host": "moviesdatabase.p.rapidapi.com",
-          "x-rapidapi-key": `${process.env.MOVIE_API_KEY}`,
+          "x-rapidapi-key": `${"9ae5be8929msh4368c9bd4c00ab3p183782jsn59a6e9a4bbfd"}`,
         },
       }
     );
